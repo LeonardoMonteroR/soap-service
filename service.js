@@ -97,7 +97,7 @@ const xml = `
     </binding>
     <service name="MyService">
       <port name="MyPort" binding="tns:MyBinding">
-        <soap:address location="https://soap-service-0uea.onrender.com/wsdl" />
+        <soap:address location="https://soap-service-0uea.onrender.com" />
       </port>
     </service>
   </definitions>
